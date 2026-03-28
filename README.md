@@ -33,7 +33,7 @@ Notch Filter: Targeted at 50 Hz to eliminate power line electrical hum.
 
 Normalization: Z-Score normalization to scale variance to 1, essential for deep learning convergence. 
 
-4.K ey Findings & Visualization
+4. Key Findings & Visualization
 The analysis highlights the regional differences in brain activity:
 
 Frontal Channels (F4, FC5): Captured the highest variability (STD ~137 µV), primarily due to artifacts like eye blinking and facial expressions. 
