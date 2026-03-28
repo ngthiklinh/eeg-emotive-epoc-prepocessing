@@ -42,6 +42,6 @@ Occipital Channels (O2): Exhibited the lowest noise profiles, making them ideal 
 
 Grand Average ERP: The smoothed peaks in the averaged waveforms (e.g., sample ~135) indicate consistent neural responses to digit stimuli. 
 
-4. How to Use
+5. How to Use
 Jupyter Notebook: Open emotive-epoc-preprocessing-notebook.ipynb to execute the code step-by-step.
 
